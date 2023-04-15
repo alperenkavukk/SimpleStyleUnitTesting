@@ -16,6 +16,7 @@
 		A276B38529EADC1E00CBFB51 /* swiftTestingTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A276B38429EADC1E00CBFB51 /* swiftTestingTests.swift */; };
 		A276B38F29EADC1E00CBFB51 /* swiftTestingUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A276B38E29EADC1E00CBFB51 /* swiftTestingUITests.swift */; };
 		A276B39129EADC1E00CBFB51 /* swiftTestingUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A276B39029EADC1E00CBFB51 /* swiftTestingUITestsLaunchTests.swift */; };
+		A276B39E29EADC7800CBFB51 /* mathematicFunc.swift in Sources */ = {isa = PBXBuildFile; fileRef = A276B39D29EADC7800CBFB51 /* mathematicFunc.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		A276B38A29EADC1E00CBFB51 /* swiftTestingUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = swiftTestingUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A276B38E29EADC1E00CBFB51 /* swiftTestingUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swiftTestingUITests.swift; sourceTree = "<group>"; };
 		A276B39029EADC1E00CBFB51 /* swiftTestingUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swiftTestingUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		A276B39D29EADC7800CBFB51 /* mathematicFunc.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = mathematicFunc.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				A276B37629EADC1E00CBFB51 /* Assets.xcassets */,
 				A276B37829EADC1E00CBFB51 /* LaunchScreen.storyboard */,
 				A276B37B29EADC1E00CBFB51 /* Info.plist */,
+				A276B39D29EADC7800CBFB51 /* mathematicFunc.swift */,
 			);
 			path = swiftTesting;
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A276B39E29EADC7800CBFB51 /* mathematicFunc.swift in Sources */,
 				A276B37229EADC1D00CBFB51 /* ViewController.swift in Sources */,
 				A276B36E29EADC1D00CBFB51 /* AppDelegate.swift in Sources */,
 				A276B37029EADC1D00CBFB51 /* SceneDelegate.swift in Sources */,
